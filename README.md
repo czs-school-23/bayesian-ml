@@ -8,5 +8,5 @@ You can find more information about the project in the Google doc [here](https:/
 ## Available data
 There are currently two available datasets:
 
-* `curve`: a 1D function with a relatively intricate shape, 250 training points, and some noise (contributed by Emily)
-* `stellar_spectra`: simulated stellar spectra with 100 data points each + parameters in a table such as $T_\text{eff}$ and $\log g$.
+* `curve`: a 1D function with a relatively intricate shape, 250 training points, and some noise. (Contributed by Emily)
+* `stellar_spectra`: simulated stellar spectra with 100 data points each + parameters in a table such as $T_\text{eff}$ and $\log g$. (Contributed by Rhys)
